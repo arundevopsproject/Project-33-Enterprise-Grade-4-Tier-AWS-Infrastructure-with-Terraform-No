@@ -1,5 +1,8 @@
 # 🌟 Terraform Web Platform Infrastructure
 
+https://medium.com/@damipetiwo/building-enterprise-grade-aws-infrastructure-with-terraform-a-complete-guide-to-4-tier-54edbbb08b01
+
+
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%89%A51.0-623CE4?style=flat-square&logo=terraform&logoColor=white)](https://terraform.io)
 [![AWS](https://img.shields.io/badge/AWS-Provider%20~%3E6.0-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
